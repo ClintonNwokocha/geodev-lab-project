@@ -1,2 +1,6 @@
-# geodev-lab-project
-mapping flood susceptibility, drainage gaps, and land-use change to inform resilience planning ahead of the 2027 rainy season.
+# My GeoDev Lab Africa project
+
+Why are parts of Abuja Municipal Area Council flooding in 2026?
+
+Built over twelve months with GeoDev Lab Africa, Cohort One.
+See project-brief.md for the full brief.
